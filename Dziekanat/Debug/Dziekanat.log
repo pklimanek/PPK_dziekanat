@@ -1,0 +1,15 @@
+﻿  Dziekanat.cpp
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(48,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(48,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(48,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.cpp(41,33): error C2039: 'pSubjects': is not a member of 'Student'
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(43): message : see declaration of 'Student'
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.cpp(98,45): error C2039: 'pSubjects': is not a member of 'Student'
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(43): message : see declaration of 'Student'
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.cpp(115,40): error C2039: 'pSubjects': is not a member of 'Student'
+  Main.cpp
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(43): message : see declaration of 'Student'
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(48,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(48,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+C:\Users\user\59af677c-gr42-repo\projekt\Dziekanat\Dziekanat.h(48,24): error C2238: unexpected token(s) preceding ';'
